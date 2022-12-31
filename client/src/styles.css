@@ -1,0 +1,26 @@
+*{
+    margin: 0;
+}
+.heading img{
+    height: 111px;
+    margin-left: 40%;
+    width: 130px;
+}
+.section{
+    width: 100%;
+    display:flex;
+    justify-content: space-around;
+}
+.fbox{
+    height: auto;
+    width: 450px;
+    border: 2px solid black;
+    padding-left: 35px;
+    padding-right: 35px;
+    margin-bottom: 40px;
+}
+.box{
+    height: 340px;
+    width: 309px;
+    border: 2px solid black;
+}
